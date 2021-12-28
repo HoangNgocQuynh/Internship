@@ -1,0 +1,30 @@
+div.box {
+    height: 300px;
+    width: 300px;
+    background-color: #8a6622;}
+p {
+    height: 75%;
+    width: 75%;
+    background-color: #196696;
+    color: rgb(83, 194, 69);}
+td.des {
+        min-width: 50px;
+        max-width: 650px;
+        text-align:center;
+        padding: 5px;
+        margin: 0px;}
+table, th, td {
+            border:1px solid black;
+          }
+.para{
+    overflow: hidden;
+    max-width: 400px;
+    max-height: 200px;
+    text-align: justify;
+}
+.parb{
+    overflow: scroll;
+    max-width: 400px;
+    max-height: 200px;
+}
+
