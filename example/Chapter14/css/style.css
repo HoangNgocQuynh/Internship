@@ -1,0 +1,58 @@
+header{
+  text-align: center;
+  color: rgb(71, 86, 218);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  background-image: url('https://f10-zfcloud.zdn.vn/bea66d846f6c8032d97d/8770654965173121390');
+  background-size: cover;
+  font-size: 20px;
+  text-align: center; 
+}
+.kho1{
+  color:rgb(255, 0, 0);
+}
+.kho1 ol{
+  text-align: center;
+  list-style-type: disc;
+}
+.kho1 ul{
+  text-align: center;
+  list-style-type:circle;
+}
+.kho2{
+  color: rgb(37, 206, 206);
+}
+.kho2 ol{
+  text-align: center;
+  list-style-type: decimal;
+}
+.kho3{
+  color: rgb(248, 204, 7);
+}
+.kho3 ol{
+  text-align: center;
+  list-style-type: lower-alpha;
+}
+.kho3 ul{
+  text-align: center;
+  list-style-type:decimal-leading-zero;
+}
+.kho4{
+  color: rgb(49, 182, 9);
+}
+.kho4 ol{
+  list-style-type: lower-greek;
+}
+.kho4 ul{
+  list-style-type:lower-latin;
+}
+.kho5{
+  color: rgb(240, 145, 181);
+}
+.kho5 ol{
+  list-style-image: url('https://f25-group-zfr.zdn.vn/812de8648d8f62d13b9e/4724022259058513097');
+}
+.kho5 ul{
+  list-style-position:inherit;
+}
