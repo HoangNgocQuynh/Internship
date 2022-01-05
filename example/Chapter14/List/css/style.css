@@ -4,8 +4,10 @@ header{
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-  background-image: url('https://f10-zfcloud.zdn.vn/bea66d846f6c8032d97d/8770654965173121390');
-  background-size: cover;
+  background-image: url('https://f9-zfcloud.zdn.vn/8f7f604662ae8df0d4bf/3646632982493745541');
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
   font-size: 20px;
   text-align: center; 
 }
@@ -54,5 +56,23 @@ body{
   list-style-image: url('https://f25-group-zfr.zdn.vn/812de8648d8f62d13b9e/4724022259058513097');
 }
 .kho5 ul{
-  list-style-position:inherit;
+  list-style-position:outside;
+}
+.kho6{
+  color: aliceblue;
+}
+.kho6 ol{
+  list-style-type: none;
+}
+.kho6 ul{
+  list-style-type: armenian;
+}
+.kho7{
+  color: chartreuse;
+}
+.kho7 ol{
+  list-style-position: inside;
+}
+.kho7 ul{
+  list-style: outside decimal url('https://f25-group-zfr.zdn.vn/812de8648d8f62d13b9e/4724022259058513097');
 }
