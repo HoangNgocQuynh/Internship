@@ -1,0 +1,36 @@
+.blockone{
+  width: 100%;
+  height: 800px;
+  background-color: darkcyan;
+  color: rgb(221, 48, 48);
+  position: relative;
+}
+.o1{
+  width: 100%;
+  height: 30%;
+  background-color: rgb(182, 26, 156);
+  position: relative;
+  top: 0%;
+  left: 0%;
+}
+.o2{
+  top: 0%;
+  width: 20%;
+  height: 40%;
+  background-color: rgb(221, 218, 27);
+  position: relative;
+}
+.o3{
+  top: 30%;
+  left: 20%;
+  width: 80%;
+  height: 40%;
+  position:absolute;
+  background-color: aliceblue;
+}
+.o4{
+  width: 100%;
+  height: 30%;
+  background-color: bisque;
+}
+   
